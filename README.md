@@ -10,7 +10,7 @@ $ npm i --save get-interpolated-string
 ## Usage
 
 ```js
-const getInterpolatedString = require('./index');
+const getInterpolatedString = require('get-interpolated-string');
 console.log(getInterpolatedString("First: {{first_name}} | Last: {{last_name}}", {first_name: "Sambhav". "last_name": "Jain"})); // First: Sambhav | Last: Jain
 ```
 
