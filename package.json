@@ -1,0 +1,17 @@
+{
+  "name": "get-interpolated-string",
+  "version": "0.0.1",
+  "description": "Compile handlebars templates using interpolated strings!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sambhav Jain",
+  "repository": {
+    "url": "https://github.com/sambhav2612/get-interpolated-string"
+  },
+  "bugs": {
+    "url": "https://github.com/sambhav2612/get-interpolated-string/issues"
+  },
+  "license": "MIT"
+}
