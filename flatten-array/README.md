@@ -1,11 +1,11 @@
-# unflatten
+# flatten-array
 
 Flatten complex structures including arrays and objects!
 
 ## Install
 
 ```bash
-$ npm i --save flatten-array
+$ npm i --save array-flatten.js
 ```
 
 ## Usage
