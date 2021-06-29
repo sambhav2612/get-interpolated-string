@@ -22,7 +22,7 @@ const complexFlattenedData = {
   "[1].skills[1].category": "Backend",
   "[1].skills[1].value": "Node.js",
 };
-const unflattenArray = require("unflatten-array");
+const unflattenArray = require("array-unflatten.js");
 unflattenArray(complexFlattenedData);
 
 /* logs ->

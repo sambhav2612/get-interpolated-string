@@ -24,7 +24,7 @@ const complexData = [
     ],
   },
 ];
-const flattenArray = require("flatten-array");
+const flattenArray = require("array-flatten.js");
 flattenArray(complexData);
 
 /* logs ->

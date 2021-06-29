@@ -1,5 +1,5 @@
 {
-  "name": "flatten-array",
+  "name": "array-flatten.js",
   "version": "0.0.1",
   "description": "Flatten complex structures including arrays and objects!",
   "main": "index.js",

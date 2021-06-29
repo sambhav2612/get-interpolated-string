@@ -1,5 +1,5 @@
 {
-  "name": "unflatten-array",
+  "name": "array-unflatten.js",
   "version": "0.0.1",
   "description": "Unflatten complex structures including arrays and objects!",
   "main": "index.js",
