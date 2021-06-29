@@ -31,6 +31,6 @@ db.model.find({ prop2: castStringToNumberInQuery("$gte", 10, "Int", "prop2") });
 
 - castStringToNumberInQuery
   - Property under comparison must have numeric value stored as String for this to work
-  - convertorType (second param) should belong to these values: Decimal, Int, Double, Long
+  - convertorType (third param) should belong to these values: Decimal, Int, Double, Long
 
 #### Released under MIT License
