@@ -1,6 +1,6 @@
 {
   "name": "flatten-json-to-csv",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Flatten complex structures and generate CSV using streams!",
   "main": "index.js",
   "scripts": {

@@ -11,11 +11,15 @@ $ npm i --save flatten-json-to-csv
 ## Usage
 
 ```js
-const flattenJsonToCsv = require("array-flatten.js");
+const { transformToJson, transformToCsv } = require("flatten-json-to-csv");
 fs.createReadStream("./output.json", { encoding: "utf8" })
-  .pipe(flattenJsonToCsv)
+  .pipe(transformToJson)
+  .pipe(transformToCsv)
   .pipe(fs.createWriteStream("./output.csv", { encoding: "utf8" }));
-// generates a output.csv with converted json, sample files attached
 ```
+
+## Caveat
+
+Currently limited upto second-level nesting
 
 #### Released under MIT License

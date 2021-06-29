@@ -35,12 +35,8 @@
       {
         "key": "Shaheed Sukhdev",
         "value": "https://welexo.com",
-        "start": {
-          "$date": "2021-06-09T06:58:43.063Z"
-        },
-        "end": {
-          "$date": "2021-06-18T17:18:50.356Z"
-        },
+        "start": "2021-06-09T06:58:43.063Z",
+        "end": "2021-06-18T17:18:50.356Z",
         "present": "0"
       }
     ]
@@ -81,12 +77,8 @@
       {
         "key": "Shaheed Sukhdev",
         "value": "https://welexo.com",
-        "start": {
-          "$date": "2021-06-09T06:58:43.063Z"
-        },
-        "end": {
-          "$date": "2021-06-18T17:18:50.356Z"
-        },
+        "start": "2021-06-09T06:58:43.063Z",
+        "end": "2021-06-18T17:18:50.356Z",
         "present": "0"
       }
     ]
@@ -127,12 +119,8 @@
       {
         "key": "Shaheed Sukhdev",
         "value": "https://welexo.com",
-        "start": {
-          "$date": "2021-06-09T06:58:43.063Z"
-        },
-        "end": {
-          "$date": "2021-06-18T17:18:50.356Z"
-        },
+        "start": "2021-06-09T06:58:43.063Z",
+        "end": "2021-06-18T17:18:50.356Z",
         "present": "0"
       }
     ]
@@ -173,12 +161,8 @@
       {
         "key": "Shaheed Sukhdev",
         "value": "https://welexo.com",
-        "start": {
-          "$date": "2021-06-09T06:58:43.063Z"
-        },
-        "end": {
-          "$date": "2021-06-18T17:18:50.356Z"
-        },
+        "start": "2021-06-09T06:58:43.063Z",
+        "end": "2021-06-18T17:18:50.356Z",
         "present": "0"
       }
     ]
@@ -219,12 +203,8 @@
       {
         "key": "Shaheed Sukhdev",
         "value": "https://welexo.com",
-        "start": {
-          "$date": "2021-06-09T06:58:43.063Z"
-        },
-        "end": {
-          "$date": "2021-06-18T17:18:50.356Z"
-        },
+        "start": "2021-06-09T06:58:43.063Z",
+        "end": "2021-06-18T17:18:50.356Z",
         "present": "0"
       }
     ]
