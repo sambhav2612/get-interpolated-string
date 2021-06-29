@@ -6,12 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sambhav Jain",
+  "author": {
+    "name": "Sambhav Jain",
+    "email": "sambhavjain2612@gmail.com"
+  },
   "repository": {
-    "url": "https://github.com/sambhav2612/get-interpolated-string"
+    "url": "https://github.com/sambhav2612/utils"
   },
   "bugs": {
-    "url": "https://github.com/sambhav2612/get-interpolated-string/issues"
+    "url": "https://github.com/sambhav2612/utils/issues"
   },
   "license": "MIT"
 }

@@ -1,0 +1,20 @@
+{
+  "name": "unflatten-array",
+  "version": "0.0.1",
+  "description": "Unflatten complex structures including arrays and objects!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Sambhav Jain",
+    "email": "sambhavjain2612@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/sambhav2612/utils"
+  },
+  "bugs": {
+    "url": "https://github.com/sambhav2612/utils/issues"
+  },
+  "license": "MIT"
+}

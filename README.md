@@ -1,17 +1,11 @@
-# get-interpolated-string
-Compile handlebars templates using interpolated strings!
+# utils
 
-## Install 
+Common JS utils under one roof!
 
-```bash
-$ npm i --save get-interpolated-string
-```
+## Current Published Packages
 
-## Usage
+- [get-interpolated-string](https://github.com/sambhav2612/utils/tree/main/get-interpolated-string)
+- [flatten-arrray](https://github.com/sambhav2612/utils/tree/main/flatten-arrray)
+- [unflatten-array](https://github.com/sambhav2612/utils/tree/main/unflatten-array)
 
-```js
-const getInterpolatedString = require('get-interpolated-string');
-console.log(getInterpolatedString("First: {{first_name}} | Last: {{last_name}}", {first_name: "Sambhav", last_name: "Jain"})); // First: Sambhav | Last: Jain
-```
-
-Released under MIT License
+#### All packages released under MIT License
