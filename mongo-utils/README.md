@@ -25,8 +25,12 @@ db.model.aggregate([
 // prop2 = "30", query = Find all records with prop2 >= 10
 const { castStringToNumberInQuery } = require("mongo-utils.js");
 db.model.find({ prop2: castStringToNumberInQuery("$gte", "Int", "prop2") });
-
-// Caveat: Property under comparison must have numeric value stored as String for this to work
 ```
+
+### Caveats
+
+- castStringToNumberInQuery
+  - Property under comparison must have numeric value stored as String for this to work
+  - convertorType (second param) should belong to these values: Decimal, Int, Double, Long
 
 #### Released under MIT License

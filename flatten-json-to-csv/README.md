@@ -1,4 +1,4 @@
-# flatten-json-to-csv
+# flatten-json-to-csv (WIP)
 
 Flatten complex structures and generate CSV using streams!
 
