@@ -24,7 +24,7 @@ db.model.aggregate([
 // 2. Cast String to Number while comaparing in query:
 // prop2 = "30", query = Find all records with prop2 >= 10
 const { castStringToNumberInQuery } = require("mongo-utils.js");
-db.model.find({ prop2: castStringToNumberInQuery("$gte", "Int", "prop2") });
+db.model.find({ prop2: castStringToNumberInQuery("$gte", 10, "Int", "prop2") });
 ```
 
 ### Caveats

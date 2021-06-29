@@ -15,15 +15,16 @@ module.exports = {
     };
   },
   castStringToNumberInQuery: function (
-    comparator = "$lte",
-    convertorType = "Double",
+    comparator,
+    comparisonValue,
+    convertorType,
     property
   ) {
     return {
       $expr: {
         [comparator]: [
           { [`$to${convertorType}`]: `$${property}` },
-          Number(Object(query)[property]),
+          Number(comparisonValue),
         ],
       },
     };
