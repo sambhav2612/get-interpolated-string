@@ -1,6 +1,6 @@
 # utils
 
-Common JS utils under one roof!
+Uncommon JS utils under one roof!
 
 ## Current Published Packages
 
