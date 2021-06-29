@@ -6,6 +6,7 @@ Uncommon JS utils under one roof!
 
 - [flatten-arrray](https://github.com/sambhav2612/utils/tree/main/flatten-array)
 - [unflatten-array](https://github.com/sambhav2612/utils/tree/main/unflatten-array)
+- [flatten-json-to-csv](https://github.com/sambhav2612/utils/tree/main/flatten-json-to-csv)
 
 ## Pending Publish
 
